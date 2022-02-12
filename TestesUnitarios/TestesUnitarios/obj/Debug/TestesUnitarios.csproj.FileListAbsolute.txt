@@ -1,0 +1,8 @@
+C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\obj\Debug\TestesUnitarios.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\obj\Debug\TestesUnitarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\obj\Debug\TestesUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\TestesUnitarios.exe.config
+C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\TestesUnitarios.exe
+C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\TestesUnitarios.pdb
+C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\obj\Debug\TestesUnitarios.exe
+C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\obj\Debug\TestesUnitarios.pdb
