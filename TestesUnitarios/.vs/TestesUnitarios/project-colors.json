@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da98c229-a349-4d8e-be9d-657d347ea76f": {
+      "ProjectGuid": "da98c229-a349-4d8e-be9d-657d347ea76f",
+      "DisplayName": "Banco",
+      "ColorIndex": 0
+    },
+    "e44ca2d8-f3f5-4916-a7a6-c086074aad18": {
+      "ProjectGuid": "e44ca2d8-f3f5-4916-a7a6-c086074aad18",
+      "DisplayName": "TestesUnitarios",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

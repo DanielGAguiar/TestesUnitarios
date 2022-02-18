@@ -15,3 +15,11 @@ C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\
 C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\nunit.framework.dll
 C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\nunit.framework.xml
 C:\Users\danie\source\repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\obj\Debug\TestesUnitarios.csproj.CopyComplete
+C:\Users\danie\Source\Repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\danie\Source\Repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\Mono.Cecil.dll
+C:\Users\danie\Source\Repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\danie\Source\Repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\danie\Source\Repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\danie\Source\Repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\nunit.core.dll
+C:\Users\danie\Source\Repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\nunit.core.interfaces.dll
+C:\Users\danie\Source\Repos\TestesUnitarios\TestesUnitarios\TestesUnitarios\bin\Debug\nunit.util.dll

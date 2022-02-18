@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TestesUnitarios",
+    "\\TestesUnitarios\\Banco"
   ],
+  "SelectedNode": "\\TestesUnitarios\\Banco\\Pessoa.cs",
   "PreviewInSolutionExplorer": false
 }
